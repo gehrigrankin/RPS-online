@@ -1,0 +1,13 @@
+#p1-side .jumbotron, #p2-side .jumbotron, #battleground .jumbotron {
+    background-color: white;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+#head-jumbo {
+    padding: 15px auto;
+}
